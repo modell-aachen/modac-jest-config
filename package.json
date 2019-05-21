@@ -1,0 +1,11 @@
+{
+  "name": "@modac/jest-config",
+  "version": "0.1.0",
+  "description": "Configuration files for jest",
+  "author": "Modell Aachen GmbH",
+  "license": "GPL-3.0",
+  "peerDependencies": {
+    "@types/jest": "^24.0.13",
+    "ts-jest": "^24.0.2"
+  }
+}
